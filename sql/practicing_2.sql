@@ -85,6 +85,3 @@ WHERE CustomerId IN (
     HAVING COUNT(*) > 5
 );
 
-
-
-
